@@ -1,7 +1,7 @@
 body {
-  background-color: red;
-  font: sans-serif;
-  color: green;
+  background-color: lightblue;
+  font: Verdana;
+  color: red;
 }
   a:hover {
       background-color: yellow;
