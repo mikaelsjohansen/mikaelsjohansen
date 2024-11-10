@@ -1,6 +1,6 @@
 body {
   background-color: lightblue;
-  font: Verdana;
+  font-family: Verdana, sans-serif;
   color: red;
 }
   a:hover {
