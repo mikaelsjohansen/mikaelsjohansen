@@ -1,10 +1,11 @@
 body {
-  background-color: lightblue;
+  background-color: darkblue;
   font-family: Verdana, sans-serif;
-  color: black;
+  color: white;
+  font-size: 20px;
 }
   a:hover {
       background-color: yellow;
-      font-size: 18px;
+      font-size: 22px;
           }
 
