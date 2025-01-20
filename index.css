@@ -5,6 +5,7 @@ body {
   font-size: 20px;
 }
   a:hover {
+      color: white;
       background-color: yellow;
       font-size: 22px;
           }
